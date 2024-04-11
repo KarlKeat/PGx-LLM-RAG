@@ -7,7 +7,9 @@ dependencies:
   - pandas=2.2.1
   - postgresql=12.17
   - python=3.12.2
+  - pip
   - requests=2.31.0
+  - wget
   - pip:
     - llama-index==0.10.26
     - nltk==3.8.1
